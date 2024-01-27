@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/23/2024 11:19:36 PM -->
+<GameData>
+	<Audio_2DSounds>
+
+	<!-- Leader Songs -->
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_1</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_HARUN_AL_RASHID_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_2</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_MONTEZUMA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_3</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_WU_ZETIAN_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_4</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_RAMESSES_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_5</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GANDHI_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_6</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_HIAWATHA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_7</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ODA_NOBUNAGA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_8</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_SULEIMAN_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_9</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_DARIUS_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_10</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_RAMKHAMHAENG_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_11</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ASKIA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_12</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GENGHIS_KHAN_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_13</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_PACAL_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_14</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_KAMEHAMEHA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_15</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_SEJONG_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_16</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_NEBUCHADNEZZAR_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_17</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_SELASSIE_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_18</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ATTILA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_19</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_PACAL_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_20</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ASHURBANIPAL_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_21</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_PEDRO_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_22</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GAJAH_MADA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_23</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_AHMAD_ALMANSUR_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_24</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_POCATELLO_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_25</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_SHAKA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+	
+	<!-- Added Songs -->
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_26</ScriptID>
+			<SoundID>SND_CUSTOM_CIV3_MESOAMERICAN_1</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_OTHER_WAR_27</ScriptID>
+			<SoundID>SND_CUSTOM_CIV3_MESOAMERICAN_2</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		
+	</Audio_2DSounds>
+
+</GameData>

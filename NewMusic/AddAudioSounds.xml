@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/24/2024 11:07:16 PM -->
+<GameData>
+	<Audio_Sounds>
+		
+		<Row>
+			<SoundID>SND_CUSTOM_CIV3_ANC_EC</SoundID>
+			<Filename>AncEC</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CUSTOM_CIV3_ANC_GR</SoundID>
+			<Filename>AncGR</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CUSTOM_CIV3_ANC_ME</SoundID>
+			<Filename>AncME</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CUSTOM_CIV3_ANC_NA</SoundID>
+			<Filename>AncNA</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		
+		<Row>
+			<SoundID>SND_CUSTOM_CIV3_GRECO_ROMAN</SoundID>
+			<Filename>Greco Roman</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		
+		<Row>
+			<SoundID>SND_CUSTOM_CIV3_IND_EC</SoundID>
+			<Filename>IndECFull</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CUSTOM_CIV3_IND_ME</SoundID>
+			<Filename>IndMEFull</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+
+		<Row>
+			<SoundID>SND_CUSTOM_CIV3_MESOAMERICAN_1</SoundID>
+			<Filename>MesoAmerican1</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CUSTOM_CIV3_MESOAMERICAN_2</SoundID>
+			<Filename>MesoAmerican2</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+
+		<Row>
+			<SoundID>SND_CUSTOM_CIV3_MID_ME</SoundID>
+			<Filename>MidMEFull</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CUSTOM_CIV3_MID_NA</SoundID>
+			<Filename>MidNAFull</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CUSTOM_CIV3_MID_OR</SoundID>
+			<Filename>MidORFull</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+
+		
+		<Row>
+			<SoundID>SND_CUSTOM_CIV4_ANC_1</SoundID>
+			<Filename>AncientSoundtrack1</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CUSTOM_CIV4_ANC_2</SoundID>
+			<Filename>AncientSoundtrack2</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_CUSTOM_CIV4_ANC_4</SoundID>
+			<Filename>AncientSoundtrack4</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+	</Audio_Sounds>
+</GameData>

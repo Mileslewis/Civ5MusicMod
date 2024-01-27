@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/23/2024 11:19:36 PM -->
+<GameData>
+	<Audio_2DSounds>
+
+	<!-- Leader Songs -->
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_1</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_WASHINGTON_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_2</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ELIZABETH_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_3</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_NAPOLEON_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_4</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_BISMARCK_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_5</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ALEXANDER_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_6</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CEASAR_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_7</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CATHERINE_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_8</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ISABELLA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_9</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_BLUETOOTH_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_10</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_MARIA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_11</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_THEODORA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_12</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_DIDO_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_13</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_BOUDICCA_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_14</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_WILLIAM_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_15</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GUSTAVUS_ADOLPHUS_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_16</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CASIMIR_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_17</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_MARIA_I_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_18</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ENRICO_DANDOLO_WAR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+	<!-- Added Songs -->
+		
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_WAR_19</ScriptID>
+			<SoundID>SND_CUSTOM_CIV3_GRECO_ROMAN</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		
+	</Audio_2DSounds>
+
+</GameData>

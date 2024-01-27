@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/23/2024 11:19:36 PM -->
+<GameData>
+	<Audio_2DSounds>
+		
+	<!-- Leader Songs -->
+		
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_1</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_WASHINGTON_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_2</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ELIZABETH_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_3</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_NAPOLEON_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_4</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_BISMARCK_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_5</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ALEXANDER_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_6</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CEASAR_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_7</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CATHERINE_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_8</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ISABELLA_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_9</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_BLUETOOTH_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_10</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_MARIA_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_11</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_THEODORA_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_12</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_DIDO_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_13</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_BOUDICCA_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_14</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_WILLIAM_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_15</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_GUSTAVUS_ADOLPHUS_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_16</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_CASIMIR_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_17</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_MARIA_I_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_18</ScriptID>
+			<SoundID>SND_LEADER_MUSIC_ENRICO_DANDOLO_PEACE</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>40</MinVolume>
+			<MaxVolume>40</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+	<!-- Added Songs -->
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_19</ScriptID>
+			<SoundID>SND_CUSTOM_CIV3_ANC_GR</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_20</ScriptID>
+			<SoundID>SND_CUSTOM_CIV3_ANC_ME</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_21</ScriptID>
+			<SoundID>SND_CUSTOM_CIV3_ANC_NA</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_22</ScriptID>
+			<SoundID>SND_CUSTOM_CIV3_IND_ME</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_23</ScriptID>
+			<SoundID>SND_CUSTOM_CIV3_MID_ME</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>75</MinVolume>
+			<MaxVolume>75</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_24</ScriptID>
+			<SoundID>SND_CUSTOM_CIV3_MID_NA</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_25</ScriptID>
+			<SoundID>SND_CUSTOM_CIV4_ANC_1</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_26</ScriptID>
+			<SoundID>SND_CUSTOM_CIV4_ANC_1</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		<Row>
+			<ScriptID>SONG_CUSTOM_EURO_PEACE_27</ScriptID>
+			<SoundID>SND_CUSTOM_CIV4_ANC_1</SoundID>
+			<SoundType>GAME_MUSIC</SoundType>
+			<MinVolume>70</MinVolume>
+			<MaxVolume>70</MaxVolume>
+			<IsMusic>True</IsMusic>
+			<Priority>1</Priority>
+		</Row>
+		
+	</Audio_2DSounds>
+
+</GameData>
